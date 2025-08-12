@@ -33,24 +33,3 @@ https://sid16p.github.io/Contact-Form/
 4. If all inputs pass validation, the success message is displayed.
 5. Note: Form submissions are **not sent**—this is a front-end demo only.
 
----
-
-## Customization Tips
-
-- To add a backend, implement form handling using technologies like **Node.js**, **PHP**, **Python (Flask/Django)**, or integrate with a service like **Formspree** or **EmailJS**.
-- Enhance validation using libraries like **jQuery Validation**, **Parsley.js**, or **Just-validate**.
-- Style the form using your favorite CSS framework (e.g., **Bootstrap**, **Tailwind CSS**, **Material UI**) or custom styles.
-- Improve accessibility by adding **ARIA labels**, clearer **error messages**, and **keyboard navigation**.
-
----
-
-## Contributing
-
-Feel free to submit pull requests or open issues if you'd like to enhance validation, add backend integration, or refine the design!
-
----
-
-## License
-
-Add your preferred license here (e.g., MIT License).
-
